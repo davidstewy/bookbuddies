@@ -19,6 +19,7 @@ export const Types = {
   CLEAR_BOOKS: "CLEAR_BOOKS"
 };
 
-export const herokuStandard = "https://warm-bastion-90430.herokuapp.com";
+// export const herokuStandard = "https://warm-bastion-90430.herokuapp.com";
+export const herokuStandard = "https://secret-savannah-11037.herokuapp.com";
 export const local = "http://127.0.0.1:8000";
 export const heroku = herokuStandard;
